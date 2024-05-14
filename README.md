@@ -1,5 +1,4 @@
 # NYC_Project_TDC
-# NewYorkCity-Project
 <img width="800" alt="finalimage" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/c0524679-e811-43ff-92e3-e4b15e256036">
 
 <img width="400" height="200" alt="SOL" src="https://github.com/Show-Boo/NewYorkCity-Project/assets/127947296/b5a699e4-cc8e-4d6e-93a3-99b972e86718">
